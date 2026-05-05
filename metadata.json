@@ -1,0 +1,6 @@
+{
+  "name": "Random Group Generator",
+  "description": "A clean and efficient tool for randomly splitting a list of names into groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
